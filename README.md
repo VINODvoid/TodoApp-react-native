@@ -1,6 +1,6 @@
 # Todo App
 
-![Todo App Screenshot](assets/images/image.png)
+<img src="assets/images/image.png" alt="Todo App Screenshot" width="300">
 
 ## Overview
 
@@ -30,7 +30,7 @@ npm start
 
 ## Screenshots
 
-![App Preview](assets/images/image.png)
+<img src="assets/images/image.png" alt="App Preview" width="300">
 
 ## License
 
